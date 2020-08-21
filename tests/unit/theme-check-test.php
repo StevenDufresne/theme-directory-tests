@@ -16,7 +16,7 @@ class Test_Basic extends WP_UnitTestCase {
 	public function test_unit_tests_work() {
 		global $themechecks;
 		ob_start();
-		check_main( 'clubtravel' );
+		check_main( 'oceanwp' );
 		ob_end_clean();
 
 		foreach ( $themechecks as $check ) {

@@ -16,7 +16,7 @@
 		"./plugins/theme-check"
 	],
 	"themes": [
-		"./themes/seedlet"
+		"./themes/oceanwp"
 	],
 	"mappings": {
 		"config": "./config",
